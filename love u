@@ -1,1 +1,19 @@
-<h1>標題</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>情人節驚喜</title>
+    <style>
+        body {
+            background-color: pink;
+            text-align: center;
+            padding: 50px;
+            font-family: 'Arial', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>親愛的，情人節快樂！</h1>
+    <p>這是我為你製作的驚喜，希望你會喜歡。</p>
+    <!-- 你可以在這裡添加更多的內容，如圖片、視頻或其他你想要分享的東西 -->
+</body>
+</html>
